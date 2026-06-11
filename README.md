@@ -42,7 +42,7 @@ Para estructurar el HTML definí primero las secciones que tendría la página: 
  
 Usé las etiquetas vistas en clases (`<header>`, `<footer>`, `<nav>`, `<main>`, `<section>`, `<div>`, `<figure>`, `<blockquote>`, listas ordenadas y no ordenadas) y busqué algunas adicionales como `<figcaption>` para describir la imagen y el atributo `rel="noopener"` en los links externos.
  
-El estilo visual lo pensé desde el principio como algo llamativo y con personalidad: fondo oscuro, colores vibrantes y tipografía display para los títulos, buscando que la página se sintiera distinta a una página web genérica sin por eso perder claridad en la lectura.
+El estilo visual lo pensamos desde el principio como algo llamativo y con personalidad, pero emotivo: fondo claro, colores similares a los glaciares y tipografía Playfair display para los títulos, buscando que la página se sintiera distinta a una página web genérica sin por eso perder claridad en la lectura.
  
 ---
  
